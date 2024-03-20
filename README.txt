@@ -20,7 +20,7 @@ Cerințe rulare proiect local:
 
 Configurare:
 1. Clonează repository-ul:
-	git clone https://github.com/username/hospital-flask-proj.git
+	git clone https://github.com/ionescuionut1708/Hospital-Flask.py-Project
 2. Instalează dependențele:
 	pip install -r requirements.txt
 3. Configurează cheia secretă JWT și URI-ul bazei de date în fișierul app.py.
